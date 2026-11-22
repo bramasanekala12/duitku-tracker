@@ -104,7 +104,7 @@ newprojecttest/
 │       └── app.js              # Logika state, modal, auth, dan interaksi UI
 ├── server.py                   # Server Python lokal (SQLite REST API)
 ├── supabase_schema.sql         # Skema database & RLS Supabase
-├── supabase.txt                # Catatan API key Supabase
+├──                             # Catatan API key Supabase
 ├── vercel.json                 # Konfigurasi deploy online Vercel
 ├── netlify.toml                # Konfigurasi deploy online Netlify
 ├── start.sh                    # Skrip peluncuran terminal
